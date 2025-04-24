@@ -1,6 +1,8 @@
 # maven-careers
 Maven Analytics - Advanced Excel Dashboard Course - Career Dashboard for helping high school seniors choose a career path
 
+![Maven Careers Dashboard](https://github.com/user-attachments/assets/df93e840-4484-4e05-85a2-7f99e6aa215c)
+
 # US Labor Statistics Dashboard
 
 This is an interactive Excel dashboard analyzing labor statistics in the United States as part of the Advanced Excel Dashboard Course through Maven Analytics.
